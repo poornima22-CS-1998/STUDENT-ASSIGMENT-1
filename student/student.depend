@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607361284 source:c:\users\standard\desktop\student\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+	<assert.h>
+
+1607361284 c:\users\standard\desktop\student\functions.h
+	<stdint.h>
+	"appconst.h"
+
+1607360536 c:\users\standard\desktop\student\appconst.h
+
